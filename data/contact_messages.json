@@ -1,0 +1,23 @@
+[
+  {
+    "id": "msg-1791361787910-c375664c",
+    "name": "Recruiter Verification Test",
+    "email": "recruiter.test@production.org",
+    "subject": "Production Deployment Verification",
+    "message": "Testing contact response persistence across server restarts and deployments.",
+    "status": "UNREAD",
+    "createdAt": "2026-10-07T08:29:47.910Z",
+    "updatedAt": "2026-10-07T08:29:47.910Z"
+  },
+  {
+    "id": "msg-1791295114639-29c90ca0",
+    "name": "Portfolio Test User",
+    "email": "test@example.com",
+    "subject": "Admin Form Test",
+    "message": "This is a production flow verification. Testing the complete contact form and admin inbox pipeline end-to-end.",
+    "status": "UNREAD",
+    "createdAt": "2026-10-06T13:58:34.638Z",
+    "updatedAt": "2026-10-06T13:58:34.638Z",
+    "ipHash": "eff8e7ca506627fe"
+  }
+]
